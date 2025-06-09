@@ -34,6 +34,8 @@
 
 #include "ros2_mpu6050/mpu6050_hal.h"
 
+#include <array>
+
 #include <string>
 #include <memory>
 #include <cstdint>

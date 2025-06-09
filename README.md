@@ -8,18 +8,17 @@ This repository contains the MPU6050 package dedicated for ROS2. It contains the
 
 This package has been tested with the following hardwares: \
 
-Raspberry Pi 4B, 4GB RAM. \
+Raspberry Pi 5, 16GB RAM. \
 MPU6050 sensor breakout board used: https://components101.com/sensors/mpu6050-module \
-The Raspberry Pi 4B runs this image: https://github.com/ros-realtime/ros-realtime-rpi4-image
 
 ### Preferred Environment Setup
 
 To run this example without issues, the following environment setup are preferred.
 
-|                  |                          |
+|        x          |              x            |
 |------------------|--------------------------|
 | Operating System | ros-realtime-rpi4-image  |
-| ROS2 Version     | ROS2 Humble              |
+| ROS2 Version     | ROS2 Jazzy              |
 
 ### Package Integration
 
