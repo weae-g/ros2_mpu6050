@@ -17,7 +17,7 @@ To run this example without issues, the following environment setup are preferre
 
 |        x          |              x            |
 |------------------|--------------------------|
-| Operating System | ros-realtime-rpi4-image  |
+| Operating System | Ubuntu 24.04.02 LTS  |
 | ROS2 Version     | ROS2 Jazzy              |
 
 ### Package Integration
