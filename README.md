@@ -6,10 +6,10 @@ This repository contains the MPU6050 package dedicated for ROS2. It contains the
 
 ## Hardware
 
-This package has been tested with the following hardwares: \
+This package has been tested with the following hardwares: 
 
 Raspberry Pi 5, 16GB RAM. \
-MPU6050 sensor breakout board used: https://components101.com/sensors/mpu6050-module \
+MPU6050 sensor breakout board used: https://components101.com/sensors/mpu6050-module 
 
 ### Preferred Environment Setup
 
